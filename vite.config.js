@@ -10,9 +10,9 @@ export default defineConfig({
     },
   },
   resolve: {
-    alias: {
-      // Add alias for react-redux if necessary
-      'react-redux': '@reduxjs/toolkit',
-    },
+    // alias: {
+    //   // Add alias for react-redux if necessary
+    //   'react-redux': '@reduxjs/toolkit',
+    // },
   },
 });
